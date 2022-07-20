@@ -1,0 +1,7 @@
+
+
+ID	 TIP	 KUS_UCUSU_MESAFE
+1	 Sanayi	 5.382379
+123	 Mesken	 8.259691
+55	 Mesken	 14.640014
+101	 Ticari	 14.948244
